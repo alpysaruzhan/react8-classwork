@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "brand": "Apple",
+      "model": "iPhone 13 Pro Max",
+      "ram": 6,
+      "nfc": true,
+      "screenType": "OLED, Super Retina XDR",
+      "screenSize": 6.7,
+      "cpu": "Apple A15 Bionic",
+      "storage": 256,
+      "battery": 4352,
+      "color": "blue",
+      "price": 635900,
+      "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/had/h19/46394424885278/apple-iphone-13-pro-max-256gb-goluboj-102298847-1-Container.jpg"
+    },
+    {
+      "id": 1,
+      "brand": "Samsung",
+      "model": "Galaxy S22 Ultra",
+      "ram": 12,
+      "nfc": true,
+      "screenType": "Dynamic AMOLED, HDR10+",
+      "screenSize": 6.8,
+      "cpu": "8-ядерный Exynos 2200",
+      "storage": 256,
+      "battery": 5000,
+      "color": "green",
+      "price": 634900,
+      "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h43/h21/48695800234014/samsung-galaxy-s22-ultra-12-512gb-zelenyj-podarok-103671158-1.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Xiaomi",
+      "model": "Mi 11 Ultra",
+      "ram": 12,
+      "nfc": true,
+      "screenType": "Super AMOLED",
+      "screenSize": 6.81,
+      "cpu": "8-ядерный Qualcomm SM8350 Snapdragon 888",
+      "storage": 512,
+      "battery": 5000,
+      "color": "white",
+      "price": 531990,
+      "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hc9/h32/34429815324702/xiaomi-mi-11-ultra-12-512gb-belyj-101846776-1-Container.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Huawei",
+      "model": "P50 Pro",
+      "ram": 8,
+      "nfc": true,
+      "screenType": "OLED",
+      "screenSize": 6.6,
+      "cpu": "Qualcomm Snapdragon 888",
+      "storage": 256,
+      "battery": 4360,
+      "color": "gold",
+      "price": 549880,
+      "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h46/h54/49846969368606/huawei-p50-pro-8-gb-256-gb-zolotistyj-104374954-1.jpg"
+    }
+  ],
+  "tweets": [
+    {
+      "text": "123",
+      "likes": 17,
+      "timestamp": 1652970101620,
+      "id": 1
+    },
+    {
+      "text": "test teststest ",
+      "likes": 17,
+      "timestamp": 1652970198986,
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "title": "test",
+      "text": "text",
+      "time": 1652886367030,
+      "id": 1
+    },
+    {
+      "title": "11111111111111122222222223333333333335555555555555",
+      "text": "2222222222222224444444444444445555555555777777777777",
+      "time": 1652889606775,
+      "id": 3
+    },
+    {
+      "title": "4563563456546",
+      "text": "fhdfghdfhdtdtfghfghfgh666666666666666777777777777777777",
+      "time": 1652890077477,
+      "id": 4
+    }
+  ],
+  "todos": [
+    {
+      "id": 0,
+      "text": "Task 1",
+      "done": false
+    },
+    {
+      "text": "123",
+      "done": true,
+      "id": 5
+    }
+  ]
+}
